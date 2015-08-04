@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Athixton/GitIntro.png?label=ready&title=Ready)](https://waffle.io/Athixton/GitIntro)
 # GitIntro
 Introduction to Git Repositories
 
